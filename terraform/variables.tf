@@ -1,0 +1,1 @@
+variable YC_FOLDER_ID { default = "" }
